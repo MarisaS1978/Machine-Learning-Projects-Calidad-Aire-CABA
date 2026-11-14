@@ -51,7 +51,7 @@ Proyecto de Machine Learning enfocado en identificar registros horarios con conc
 - Exhaustividad (*Recall*): 0.329
 - ROC-AUC: 0.836
 
-📂 Archivos del proyecto: `projects/air-quality-caba/notebooks`
+📂 Archivos del proyecto: `projects/air-quality-caba/notebooks/air_quality_caba_classification.ipynb`
 
 ---
 
@@ -149,7 +149,7 @@ A Machine Learning project focused on identifying hourly records with elevated P
 - Recall: 0.329
 - ROC-AUC: 0.836
 
-📂 Project files: `projects/air-quality-caba/notebooks`
+📂 Project files: `projects/air-quality-caba/notebooks/air_quality_caba_classification.ipynb`
 
 ---
 
