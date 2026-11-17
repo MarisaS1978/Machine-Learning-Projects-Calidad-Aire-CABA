@@ -8,7 +8,7 @@
 
 <a id="español"></a>
 
-# 🇦🇷 Español
+
 ### Análisis de Datos | Machine Learning | Python
 
 ¡Bienvenido/a a mi portafolio de Machine Learning! Este repositorio contiene proyectos prácticos desarrollados como parte de mi recorrido de aprendizaje en Ciencia de Datos y Machine Learning.
@@ -108,7 +108,8 @@ Continúo desarrollando mis habilidades en Análisis de Datos, Inteligencia de N
 
 <a id="english"></a>
 
-# 🇬🇧 English
+
+
 
 ### Data Analytics | Machine Learning | Python
 
